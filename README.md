@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=PetiDev&show_icons=true&theme=tokyonight)
+![Langues I prefer](https://github-readme-stats.vercel.app/api/top-langs/?username=PetiDev&theme=dark) 
+
 <!--
 **D0dzs/D0dzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
