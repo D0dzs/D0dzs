@@ -1,9 +1,9 @@
-### Hi there 👋
-## My name is Dodzs (this is my aka name actually) I really like coding that's why I chosen software enginieer profession. I hope you like my GitHub page if you have anny ideas let me know! 
-# Have a nice day tho! ^^
+# Hi there 👋
+### My name is Dodzs (this is my aka name actually) I really like coding that's why I chosen software enginieer profession. I hope you like my GitHub page if you have anny ideas let me know! 
+##### Have a nice day tho! ^^
 
-![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=PetiDev&show_icons=true&theme=tokyonight)
-![Langues I prefer](https://github-readme-stats.vercel.app/api/top-langs/?username=PetiDev&theme=dark) 
+![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=D0dzs&show_icons=true&theme=tokyonight)
+![Langues I prefer](https://github-readme-stats.vercel.app/api/top-langs/?username=D0dzs&theme=dark) 
 
 <!--
 **D0dzs/D0dzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
