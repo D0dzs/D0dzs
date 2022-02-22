@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Dodzs (this is my aka name actually) I really like coding that's why I chosen software enginieer profession. I hope you like my GitHub page if you have anny ideas let me know! 
+### My name is Dodzs (this is my aka name actually) I really like coding that's why I chosen software enginieer profession. I hope you like my GitHub page if you have any ideas let me know! 
 ##### Have a nice day tho! ^^
 
 ![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=D0dzs&show_icons=true&theme=tokyonight)
