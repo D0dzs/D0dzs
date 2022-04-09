@@ -3,6 +3,7 @@
 ##### Have a nice day tho! ^^
 
 ![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=D0dzs&show_icons=true&hide_border=true&theme=onedark)
+![Thingy](https://github-profile-trophy.vercel.app/?username=d0dzs&theme=onedark)
 <!-- ![Langues I prefer](https://github-readme-stats.vercel.app/api/top-langs/?username=D0dzs&theme=dark)  -->
 
 <!--
