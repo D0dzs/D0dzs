@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and (junior Software Enginieer)
 ---------------------------------------------
 
-I've been learning coding for a while ago (5-6 years). I started my carrier with HTML (without css and javascript) I've got bored coding singlepage webapps so I started learning JavaScript and I took a break after the whole session. 2-3 years passed I had to choose: Software Enginieer or IT Developer and I choosed the first. Nowadays I learned python. I knows everything of python (80-85%) and when summer is came I've started to learn React using frameworks. Now I am using TypeScript (for safety) and TailwindCSS.
+I've been learning coding for a while ago (5-6 years). I started my carrier with HTML (without css and javascript) I've got bored coding singlepage webapps so I started learning JavaScript and I took a break after the whole session.
+
+2-3 years passed I had to choose: Software Enginieer or IT Developer and I choosed the first. Nowadays I learned python. I knows everything of python (80-85%) and when summer is came I've started to learn React using frameworks. Now I am using TypeScript (for safety) and TailwindCSS.
 
 *   🌍  I'm based in Hungary
 *   🖥️  See my portfolio at [www.dodzs.me](http://dodzs.me)
