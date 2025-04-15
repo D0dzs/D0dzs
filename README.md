@@ -1,1 +1,1 @@
-<center>🐱🐱🐱</center>
+![Metrics](/github-metrics.svg)
